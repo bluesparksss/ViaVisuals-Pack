@@ -1,1 +1,1 @@
-ViaVisuals resource pack
+ViaVisuals resource pack - Automatically downloaded by ViaVisuals
